@@ -8,11 +8,11 @@
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 75,
+          "desktopLag": 50,
           "enabled": true,
           "id": 0,
-          "intensity": 75,
-          "name": "GeForce GTX 1660 SUPER"
+          "intensity": 50,
+          "name": "jancuk"
         }
       ]
     }
@@ -21,10 +21,10 @@
     {
       "agent": "",
       "algorithm": "turtlecoin",
-      "host": "trtl.pool.mine2gether.com",
+      "host": "turtlecoin.herominers.com",
       "niceHash": false,
-      "password": "x",
-      "port": 3335,
+      "password": "nanung",
+      "port": 10380,
       "ssl": false,
       "priority": 0,
       "rigID": "",
