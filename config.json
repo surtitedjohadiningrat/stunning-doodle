@@ -21,7 +21,7 @@
     {
       "agent": "",
       "algorithm": "turtlecoin",
-      "host": "turtlecoin.herominers.com",
+      "host": "sg.turtlecoin.herominers.com",
       "niceHash": false,
       "password": "nanung",
       "port": 10380,
