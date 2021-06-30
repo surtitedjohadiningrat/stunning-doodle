@@ -21,10 +21,10 @@
     {
       "agent": "",
       "algorithm": "turtlecoin",
-      "host": "trtl.pool.mine2gether.com",
+      "host": "sg.turtlecoin.herominers.com",
       "niceHash": false,
       "password": "nanung",
-      "port": 3335,
+      "port": 10380,
       "ssl": false,
       "priority": 0,
       "rigID": "",
