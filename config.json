@@ -21,12 +21,12 @@
     {
       "agent": "",
       "algorithm": "turtlecoin",
-      "host": "pool.hashvault.pro",
+      "host": "turtlecoin.herominers.com",
       "niceHash": false,
       "password": "x",
-      "port": 80,
+      "port": 10380,
       "ssl": true,
-      "priority": 0,
+      "priority": 2,
       "rigID": "",
       "username": "TRTLv11jVfE8pG6joSABXzLi4fpq694dXGF91RFJ6nuMf2AJuSRa7CSF2i8siF1BGgfF7fYUjnGt4P22T2sLQRzyK8Cooo7PUrB"
     }
