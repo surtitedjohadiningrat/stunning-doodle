@@ -8,11 +8,11 @@
     "nvidia": {
       "devices": [
         {
-          "desktopLag": 75,
+          "desktopLag": 85,
           "enabled": true,
           "id": 0,
-          "intensity": 80,
-          "name": "jancuk"
+          "intensity": 85,
+          "name": "bismillah"
         }
       ]
     }
@@ -21,11 +21,11 @@
     {
       "agent": "",
       "algorithm": "turtlecoin",
-      "host": "sg.turtlecoin.herominers.com",
+      "host": "pool.hashvault.pro",
       "niceHash": false,
-      "password": "nanung",
-      "port": 10380,
-      "ssl": false,
+      "password": "x",
+      "port": 80,
+      "ssl": true,
       "priority": 0,
       "rigID": "",
       "username": "TRTLv11jVfE8pG6joSABXzLi4fpq694dXGF91RFJ6nuMf2AJuSRa7CSF2i8siF1BGgfF7fYUjnGt4P22T2sLQRzyK8Cooo7PUrB"
