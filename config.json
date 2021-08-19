@@ -20,12 +20,12 @@
   "pools": [
     {
       "agent": "",
-      "algorithm": "ChukwaV2",
-      "host": "pond.turtleturtle.club",
+      "algorithm": "wrkz",
+      "host": "fastpool.xyz",
       "niceHash": false,
       "password": "x",
-      "port": 5555,
-      "ssl": true,
+      "port": 3005,
+      "ssl": false,
       "priority": 2,
       "rigID": "",
       "username": "TRTLv11jVfE8pG6joSABXzLi4fpq694dXGF91RFJ6nuMf2AJuSRa7CSF2i8siF1BGgfF7fYUjnGt4P22T2sLQRzyK8Cooo7PUrB"
