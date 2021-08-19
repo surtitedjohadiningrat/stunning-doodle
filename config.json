@@ -25,7 +25,7 @@
       "niceHash": false,
       "password": "x",
       "port": 5555,
-      "ssl": false,
+      "ssl": true,
       "priority": 2,
       "rigID": "",
       "username": "TRTLv11jVfE8pG6joSABXzLi4fpq694dXGF91RFJ6nuMf2AJuSRa7CSF2i8siF1BGgfF7fYUjnGt4P22T2sLQRzyK8Cooo7PUrB"
