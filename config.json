@@ -20,11 +20,11 @@
   "pools": [
     {
       "agent": "",
-      "algorithm": "wrkz",
+      "algorithm": "Argon2id Chukwa",
       "host": "fastpool.xyz",
       "niceHash": false,
       "password": "x",
-      "port": 3005,
+      "port": 10214,
       "ssl": false,
       "priority": 2,
       "rigID": "",
