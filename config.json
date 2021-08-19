@@ -20,7 +20,7 @@
   "pools": [
     {
       "agent": "",
-      "algorithm": "turtlecoin",
+      "algorithm": "ChukwaV2",
       "host": "pond.turtleturtle.club",
       "niceHash": false,
       "password": "x",
